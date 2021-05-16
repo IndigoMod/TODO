@@ -1,5 +1,5 @@
 # Organization
-- [ ] Rebrand to Indigo. I (acaiberii) want IndigoMod to branch out from just being a modloader. 
+- [ ] Rebrand to Indigo.   
 # Website
 - [ ] Complete indigo.ucyt.dev
 - [ ] Complete indigomod.github.io
